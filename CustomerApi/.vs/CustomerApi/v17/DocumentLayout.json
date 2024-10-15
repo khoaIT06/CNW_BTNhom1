@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|d:\\congngheweb\\baocaonhom\\customerapi\\customerapi\\customerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8CF0EC63-F669-480F-B9FD-7CBFF187A1AA}|CustomerApi\\CustomerApi.csproj|solutionrelative:customerapi\\customerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Models\\Customer.cs",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerApi\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:15:40.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:45:44.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Models\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Models\\CustomerDbContext.cs",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Models\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerApi\\Models\\CustomerDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:44:52.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerApi.http",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\CustomerApi.http",
+              "RelativeDocumentMoniker": "CustomerApi\\CustomerApi.http",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\CustomerApi.http",
+              "RelativeToolTip": "CustomerApi\\CustomerApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T10:38:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerApi\\appsettings.json",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\appsettings.json",
+              "RelativeToolTip": "CustomerApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T10:34:05.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerApi\\Program.cs",
+              "ToolTip": "D:\\CongNgheWeb\\BaoCaoNhom\\CustomerApi\\CustomerApi\\Program.cs",
+              "RelativeToolTip": "CustomerApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:33:54.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
